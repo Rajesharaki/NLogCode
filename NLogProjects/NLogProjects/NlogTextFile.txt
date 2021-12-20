@@ -1,0 +1,10 @@
+﻿2021-12-20 19:38:03.7641|TRACE|NLogProjects.Nlog|Loop number= 1
+2021-12-20 19:38:07.4708|INFO|NLogProjects.Nlog|Entered inside DivideTwoNumbers
+2021-12-20 19:38:07.4708|INFO|NLogProjects.Nlog|result of a/b= 1
+2021-12-20 19:38:07.5300|TRACE|NLogProjects.Nlog|Loop number= 2
+2021-12-20 19:38:22.3131|INFO|NLogProjects.Nlog|Entered inside DivideTwoNumbers
+2021-12-20 19:38:22.3131|INFO|NLogProjects.Nlog|result of a/b= 2
+2021-12-20 19:38:22.3131|TRACE|NLogProjects.Nlog|Loop number= 3
+2021-12-20 19:38:25.0626|INFO|NLogProjects.Nlog|Entered inside DivideTwoNumbers
+2021-12-20 19:38:25.4373|ERROR|NLogProjects.Nlog|Attempted to divide by zero.
+2021-12-20 19:38:25.4373|TRACE|NLogProjects.Nlog|Loop number= 4
